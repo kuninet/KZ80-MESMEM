@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name Z80-1MSRAM-rescue)(type Legacy)(uri /Users/kuninet/Documents/git/Z80_1MRAMB/KiCAD/Z80-1MSRAM-rescue.lib)(options "")(descr ""))
-  (lib (name SRAM_ROM)(type Legacy)(uri ${KIPRJMOD}/SRAM_ROM.lib)(options "")(descr ""))
+  (lib (name "Z80-1MSRAM-rescue")(type "Legacy")(uri "/Users/kuninet/Documents/git/Z80_1MRAMB/KiCAD/Z80-1MSRAM-rescue.lib")(options "")(descr ""))
+  (lib (name "SRAM_ROM")(type "Legacy")(uri "${KIPRJMOD}/SRAM_ROM.lib")(options "")(descr ""))
+  (lib (name "KZ80-MSXMEM-rescue")(type "Legacy")(uri "${KIPRJMOD}/KZ80-MSXMEM-rescue.lib")(options "")(descr ""))
 )
